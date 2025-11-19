@@ -1,0 +1,5 @@
+{
+  "name": "CallScript AI",
+  "description": "Professional automated call transcription and diarization tool powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
